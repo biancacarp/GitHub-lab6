@@ -2,7 +2,7 @@
 /* CSS Document */
 
 .bun-top {
-  height: 49px;
+  height: 52px;
   width: 71%;
   background: #e5b05a;
   border-radius: 100px 100px 20px 20px;
@@ -24,21 +24,21 @@
 }
 
 .tomato {
-  height: 23px;
-  width: 61%;
+  height: 27px;
+  width: 62%;
   background-color: #df4724;
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
 .lettuce {
   background-color: #4CAF50;
-  width: 284px;
+  width: 344px;
   height: 26px;
   border-radius: 20px;
 }
 
 .patty {
-  height: 36px;
+  height: 40px;
   width: 69%;
   background: #932d07;
   border-radius: 15px;
@@ -47,7 +47,7 @@
 
 .pickle {
   height: 19px;
-  width: 69%;
+  width: 68%;
   background: #3cbe7a;
   border-radius: 0 0 100px 100px;
   border-bottom: solid 10px #38a46c;
@@ -61,29 +61,29 @@
 
 .mustard {
   background-color: #f2c200;
-  width: 276px;
+  width: 331px;
   height: 9px;
   border-radius: 20px;
 }
 
 .relish {
   background-color: #2e8b57;
-  width: 255px;
+  width: 330px;
   height: 10px;
   border-radius: 20px;
 }
 
-.jalapeno {
+.Jalapeno {
   height: 14px;
-  width: 64%;
-  background-color: #208b45;   /* dark green */
+  width: 65%;
+  background-color: #208b45;  
   border-radius: 50px;
   border-bottom: solid 4px #1e6435;
 }
 
 .bacon {
   height: 22px;
-  width: 72%;
+  width: 71%;
   background: linear-gradient(
     to bottom,
     #8b2e1a 40%,
@@ -105,7 +105,7 @@
 }
 
 .plate {
-  height: 25px;
+  height: 28px;
   width: 85%;
   background: #a5a2a2;
   border-radius: 20px 20px 200px 200px;
