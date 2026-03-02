@@ -2,8 +2,8 @@
 /* CSS Document */
 
 .bun-top {
-  height: 70px;
-  width: 60%;
+  height: 49px;
+  width: 71%;
   background: #e5b05a;
   border-radius: 100px 100px 20px 20px;
   border-bottom: solid 10px rgba(0,0,0,.1);
@@ -11,52 +11,94 @@
 
 .cheese {
   height: 15px;
-  width: 65%;
-  background: #f2c120;
+  width: 67%;
+  background: #ffd966;
   border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.spicy .cheese {
+  height: 22px;
+  width: 67%;
+  background-color: #f2d7a6; 
+ border-bottom: solid 3px rgba(0,0,0,.08);
 }
 
 .tomato {
-  height: 25px;
-  width: 50%;
-  background-color: #dd3710;
+  height: 23px;
+  width: 61%;
+  background-color: #df4724;
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
-.meatball {
-  height: 60px;
-  width: 70px;
-  background: #74380d;
-  border-radius: 50px;
-  display: inline-block;
-  vertical-align: top;
+.lettuce {
+  background-color: #4CAF50;
+  width: 284px;
+  height: 26px;
+  border-radius: 20px;
 }
 
 .patty {
-  height: 35px;
-  width: 65%;
-  background: #ad370b;
+  height: 36px;
+  width: 69%;
+  background: #932d07;
   border-radius: 15px;
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
 .pickle {
-  height: 30px;
-  width: 50%;
-  background: #3ac67d;
+  height: 19px;
+  width: 69%;
+  background: #3cbe7a;
   border-radius: 0 0 100px 100px;
-  border-bottom: solid 10px #2d9961;
+  border-bottom: solid 10px #38a46c;
 }
 
 .onion {
-  width: 40%;
-  background-color: #a039bf;
+  width: 63%;
+  background-color: #8c29aa;
   border-top: dotted 20px rgba(255,255,255,.2);
 }
 
+.mustard {
+  background-color: #f2c200;
+  width: 276px;
+  height: 9px;
+  border-radius: 20px;
+}
+
+.relish {
+  background-color: #2e8b57;
+  width: 255px;
+  height: 10px;
+  border-radius: 20px;
+}
+
+.jalapeno {
+  height: 14px;
+  width: 64%;
+  background-color: #208b45;   /* dark green */
+  border-radius: 50px;
+  border-bottom: solid 4px #1e6435;
+}
+
+.bacon {
+  height: 22px;
+  width: 72%;
+  background: linear-gradient(
+    to bottom,
+    #8b2e1a 40%,
+    #f4a460 40%,
+    #f4a460 60%,
+    #8b2e1a 60%,
+    #8b2e1a 100%
+  );
+  border-radius: 8px;
+}
+
+
 .bun-bottom {
-  height: 35px;
-  width: 60%;
+  height: 38px;
+  width: 75%;
   background: #e5b05a;
   border-radius: 20px 20px 40px 40px;
   border-top: solid 8px rgba(0,0,0,.1)
@@ -64,7 +106,7 @@
 
 .plate {
   height: 25px;
-  width: 80%;
-  background: #656565;
+  width: 85%;
+  background: #a5a2a2;
   border-radius: 20px 20px 200px 200px;
 }
